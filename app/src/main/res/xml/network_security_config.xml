@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<network-security-config>
+    <domain-config cleartextTrafficPermitted="true">
+        <domain includeSubdomains="true">phpwebdevelopmentservices.com</domain>
+        <!--<domain includeSubdomains="true">phpstack-415995-1690584.cloudwaysapps.com</domain>-->
+    </domain-config>
+</network-security-config>
